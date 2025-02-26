@@ -1,6 +1,6 @@
 # STYLY - AI Interior Design Platform
 
-![STYLY Banner](banner.png)
+![STYLY Banner](/banner.png)
 
 A modern web platform that transforms interior design through AI technology. Built with pure HTML, CSS, and JavaScript, featuring immersive UI/UX and interactive elements.
 
